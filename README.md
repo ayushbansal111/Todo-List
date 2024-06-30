@@ -5,9 +5,7 @@ The To-Do List App is a web application that allows users to keep track of their
 *	Common list for adding and removing items
 *	Custom list creation by entering the name of the list in the current list box and hitting the enter key
 *	Ability to add and remove tasks from custom lists
-## Deployment
-The app is deployed on Render, a cloud platform that makes it easy to deploy and manage web applications. The app is automatically deployed whenever changes are pushed to the main branch of the GitHub repository.
-To access the deployed app, click on this https://to-do-list-5738.onrender.com/.
+
 ## Database
 The app uses MongoDB Atlas for the database, a fully-managed cloud database service that provides high availability, automatic scaling, and backup and recovery capabilities. The app uses the Mongoose ODM to interact with the database.
 Technologies
