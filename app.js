@@ -12,8 +12,7 @@ app.use(bodyParser.urlencoded({ extended: true }))
 app.use(express.static("public"));
 
 
-// mongoose.connect("mongodb://localhost:27017/todolist-v2");   //local mongoDB
-mongoose.connect("mongodb+srv://priyanshu1101:priyanshu1101@cluster0.bhvsw.mongodb.net/todolist-v2")
+mongoose.connect("mongodb://localhost:27017/todolist-v2");   //local mongoDB
 
 
 const taskSchema = {  //npm install mongoose
