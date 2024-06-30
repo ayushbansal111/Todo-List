@@ -50,5 +50,5 @@ MONGODB_URI=<your MongoDB Atlas connection string>
 The app is open source and is available under the MIT License. See the LICENSE file for more information.
 
 ## Credits
-The app was created by Priyanshu Bansal. If you have any questions or feedback, please contact me at priyanshubansal35@gmail.com.
+The app was created by Ayush Bansal. If you have any questions or feedback, please contact me at ayushbansal162@gmail.com.
 
